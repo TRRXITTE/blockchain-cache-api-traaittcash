@@ -1,4 +1,4 @@
-# TurtlePay® Blockchain Cache API
+# traaittCASH® Blockchain Cache API
 
 #### Master Build Status
 [![Build Status](https://travis-ci.org/TurtlePay/blockchain-cache-api.svg?branch=master)](https://travis-ci.org/TurtlePay/blockchain-cache-api) [![Build status](https://ci.appveyor.com/api/projects/status/github/TurtlePay/blockchain-cache-api?branch=master&svg=true)](https://ci.appveyor.com/project/brandonlehmann/blockchain-cache-api/branch/master)
@@ -7,8 +7,8 @@
 
 * MariaDB/MySQL with InnoDB support
 * [RabbitMQ](https://www.rabbitmq.com/)
-* [TurtlePay®: Blockchain Data Collection Agent](https://github.com/TurtlePay/blockchain-data-collection-agent)
-* [TurtlePay®: Blockchain Relay Agent](https://github.com/TurtlePay/blockchain-relay-agent)
+* [traaittCASH®: Blockchain Data Collection Agent](https://github.com/TRRXITTE/blockchain-data-collection-agent-traaittcash)
+* [TurtlePay®: Blockchain Relay Agent](https://github.com/TRRXITTE/blockchain-relay-agent-traaittcash)
 * [Node.js](https://nodejs.org/) LTS
 
 ## Foreword
@@ -20,7 +20,7 @@ We know that this documentation needs cleaned up and made easier to read. We'll 
 1) Clone this repository to wherever you'd like the API to run:
 
 ```bash
-git clone https://github.com/TurtlePay/blockchain-cache-api
+git clone https://github.com/TRRXITTE/blockchain-cache-api-traaittcash blockchain-cache-api
 ```
 
 2) Install the required Node.js modules

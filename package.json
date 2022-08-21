@@ -1,7 +1,7 @@
 {
   "name": "blockchain-cache-api",
   "version": "0.0.18",
-  "description": "TurtlePay: Blockchain Cache API",
+  "description": "traaittCASH: Blockchain Cache API",
   "main": "index.js",
   "scripts": {
     "test": "standard",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TurtlePay/blockchain-cache-api.git"
+    "url": "git+https://github.com/TRRXITTE/blockchain-cache-api-traaittcash.git"
   },
   "keywords": [
-    "TurtlePay"
+    "traaittCASH"
   ],
-  "author": "TurtlePay Development Team",
+  "author": "TRRXITTE Int., incorporate",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/TurtlePay/blockchain-cache-api/issues"
+    "url": "https://github.com/trrxitte/blockchain-cache-api-traaittcash/issues"
   },
-  "homepage": "https://github.com/TurtlePay/blockchain-cache-api#readme",
+  "homepage": "https://github.com/trrxitte/blockchain-cache-api-traaittcash#readme",
   "devDependencies": {
     "standard": "^13.0.1"
   },

@@ -2,10 +2,10 @@
   "bindIp": "0.0.0.0",
   "httpPort": 80,
   "corsHeader": "*",
-  "coinDecimals": 2,
+  "coinDecimals": 8,
   "defaultMixins": 3,
   "emissionSpeed": 25,
-  "maxSupply": 100000000000000,
+  "maxSupply": 8874400000000000,
   "queues": {
     "relayAgent": "request.network"
   },
@@ -15,8 +15,8 @@
   },
   "blacklistedIps": [],
   "useCompression": false,
-  "useNodeMonitor": false,
+  "useNodeMonitor": true,
   "usePoolMonitor": false,
   "useRedisCache": false,
-  "checkPointsDomain": "checkpoints.turtlecoin.dev"
+  "checkPointsDomain": "checkpoints.traaittcash.com"
 }
